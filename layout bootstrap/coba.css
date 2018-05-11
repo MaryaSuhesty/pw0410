@@ -1,5 +1,6 @@
 .header{
 	background: #ff8080;
+	width:900px;
 	height:100px;
 	margin:0 auto;
 
@@ -9,11 +10,6 @@
 	text-align: center ;
 	margin-right: 20px;
 	font-family: verdana;
-	background: gray;
-	color: #fff;
-	float: right;
-	padding: 10px;
-	border-radius: 15px;
 }
 
 .header small {
@@ -23,7 +19,7 @@
 
 .menu{
 	background: #660000;
-
+	width:900px;
 	height:40px;
 	margin:0 auto;
 }
@@ -43,14 +39,14 @@
 
 }
 .content{
-
+	width:900px;
 	height:400px;
 	margin:0 auto;
 	background: #ffcccc;
 }
 
 .subs {
-
+	width:290px;
 	height: 380px;
 	background: #ffb3cc;
 	border-radius: 10px;

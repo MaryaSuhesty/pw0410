@@ -6,7 +6,7 @@
 
 
 .header{
-	background: #fff;
+	background: #ff8080;
 	margin :0 auto;
 	width:900px;
 	height:120px;
@@ -15,7 +15,7 @@
 }
 
 .header1{
-	background-image: url('header-bg.jpg');
+	background-image: url('images/header-bg.jpg');
 	margin :0 auto;
 	width: 900px;
 	height: 150px;
